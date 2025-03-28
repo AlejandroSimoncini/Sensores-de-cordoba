@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "tipo": "sensor_ambiente",
+    "ubicacion": "Córdoba, Argentina",
+    "ciudad": "Villa Carlos Paz",
+    "mediciones": [
+      { "tipo": "humedad", "valor": 65.4, "unidad": "%" },
+      { "tipo": "temperatura", "valor": 22.3, "unidad": "°C" },
+      { "tipo": "calidad_aire", "valor": 40, "unidad": "AQI" }
+    ],
+    "fecha_hora": "2025-03-28T14:30:00Z"
+  },
+  {
+    "id": 2,
+    "tipo": "sensor_ambiente",
+    "ubicacion": "Córdoba, Argentina",
+    "ciudad": "Río Cuarto",
+    "mediciones": [
+      { "tipo": "humedad", "valor": 66.1, "unidad": "%" },
+      { "tipo": "temperatura", "valor": 22.5, "unidad": "°C" },
+      { "tipo": "calidad_aire", "valor": 38, "unidad": "AQI" }
+    ],
+    "fecha_hora": "2025-03-28T14:31:00Z"
+  },
+  {
+    "id": 3,
+    "tipo": "sensor_ambiente",
+    "ubicacion": "Córdoba, Argentina",
+    "ciudad": "San Francisco",
+    "mediciones": [
+      { "tipo": "humedad", "valor": 64.8, "unidad": "%" },
+      { "tipo": "temperatura", "valor": 22.1, "unidad": "°C" },
+      { "tipo": "calidad_aire", "valor": 42, "unidad": "AQI" }
+    ],
+    "fecha_hora": "2025-03-28T14:32:00Z"
+  }
+]
